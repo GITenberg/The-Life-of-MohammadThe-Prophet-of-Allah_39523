@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '40058'
     url: http://www.gutenberg.org/2009/agents/40058
 description: Additional illustrations by Dinet.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39523#The-Life-of-MohammadThe-Prophet-of-Allah
 gutenberg_issued: '2012-04-23'
 gutenberg_type: Text
 identifiers:
