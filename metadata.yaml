@@ -1,0 +1,48 @@
+_repo: The-Life-of-MohammadThe-Prophet-of-Allah_39523
+_version: 0.1.0
+alternative_title: La vie de Mohammed, prophète d'Allah. English
+contributor:
+  illustrator:
+    agent_name: Rasim, Muhammad
+    aliases:
+    - Racim, Mohammed
+    - Jaza'iri, Muhammad Rasim
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '45455'
+    url: http://www.gutenberg.org/2009/agents/45455
+covers:
+- cover_type: archival
+  image_path: 39523-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Ben Ibrahim, Sliman
+    aliases:
+    - Ibrahim, Sliman Ben
+    - Ibn Ibrahim, Sulayman
+    - Sliman Ben Ibrahim
+    gutenberg_agent_id: '40059'
+    url: http://www.gutenberg.org/2009/agents/40059
+  - agent_name: Dinet, Etienne
+    aliases:
+    - Dinet, Alphonse Étienne
+    - Dinet, Nasreddine
+    - Dinet, Nasr ad Dine
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '40058'
+    url: http://www.gutenberg.org/2009/agents/40058
+description: Additional illustrations by Dinet.
+gutenberg_issued: '2012-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Muhammad, Prophet, -632'
+- !lcc 'BP'
+title: The Life of Mohammad, the Prophet of Allah
+url: http://www.gutenberg.org/ebooks/39523
